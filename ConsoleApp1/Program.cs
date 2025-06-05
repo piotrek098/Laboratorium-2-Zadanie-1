@@ -7,7 +7,7 @@ public class Neuron
 
     public static void Main(string[] args)
     {
-        int ZDmin = -10, ZDmax = 10;
+        int ZDmin = -5, ZDmax = 5;
         double parametrUczenia = 0.3; 
 
         int iloscWag = 9;
